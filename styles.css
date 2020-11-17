@@ -116,11 +116,13 @@ hr {
   color: white;
 }
 
-.intro {
-  width: 40%;
-  margin: auto;
-  padding-bottom: 40px;
+.salwyn{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
+
 
 .BUTTON_TZA {
   background: #11CDD4;
